@@ -1,8 +1,8 @@
 import Libraries._
 
-object Module extends BaseModule {
-  val moduleName = "module"
-  val location = "./module"
+object Parsing extends BaseModule {
+  val moduleName = "parsing"
+  val location = "./parsing"
 
   val settings = Seq ()
 

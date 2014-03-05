@@ -9,7 +9,7 @@ object RootModule {
     base = file("."),
     settings = moduleSettings
   ) aggregate (
-    module
+    parsing
   )
 
   val moduleSettings =
